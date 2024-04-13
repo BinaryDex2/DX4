@@ -1,6 +1,4 @@
-window.localStorage.setItem('v4Particles', 'true')
-const switches = document.getElementById('2')
-switches.checked = true
+localStorage.setItem('v4Particles', 'true')
 
 // Ads
 document.addEventListener('DOMContentLoaded', function () {
