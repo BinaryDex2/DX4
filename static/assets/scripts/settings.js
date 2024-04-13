@@ -1,4 +1,4 @@
-window.localStorage.getItem('v4Particles') == 'true'
+window.localStorage.getItem('v4Particles') == true
 
 // Ads
 document.addEventListener('DOMContentLoaded', function () {
