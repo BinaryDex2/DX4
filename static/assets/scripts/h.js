@@ -176,6 +176,7 @@ let splashtext = [
   'broke my laptop coding this',
   'peanut butter oatmeal',
   'ask me to put anything you want here',
+  'check out the settings page!',
 ]
 
 document.getElementById('splash').innerText = splashtext[Math.floor(Math.random() * splashtext.length)]
